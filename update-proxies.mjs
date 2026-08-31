@@ -64,14 +64,30 @@ for (const source of SOURCES) {
   }
 }
 
-const deduped = [...new Map(all.map((proxy) => [`${proxy.server}:${proxy.port}:${proxy.secret}`, proxy])).values()]
-  .sort((a, b) => a.country.localeCompare(b.country) || a.server.localeCompare(b.server));
+function dedupeAndSort(proxies) {
+  return [...new Map(proxies.map((proxy) => [`${proxy.server}:${proxy.port}:${proxy.secret}`, proxy])).values()]
+    .sort((a, b) => a.country.localeCompare(b.country) || a.server.localeCompare(b.server));
+}
 
-const output = {
-  updated_at: new Date().toISOString(),
-  count: deduped.length,
-  proxies: deduped,
+const sponsor = dedupeAndSort(all.filter((proxy) => proxy.source === 'sponsor'));
+const publicProxies = dedupeAndSort(all.filter((proxy) => proxy.source === 'public'));
+
+const updatedAt = new Date().toISOString();
+
+const sponsorOutput = {
+  updated_at: updatedAt,
+  count: sponsor.length,
+  proxies: sponsor,
 };
 
-await writeFile('proxies.json', `${JSON.stringify(output, null, 2)}\n`);
-console.log(`Saved ${deduped.length} proxies to proxies.json`);
+const publicOutput = {
+  updated_at: updatedAt,
+  count: publicProxies.length,
+  proxies: publicProxies,
+};
+
+await Promise.all([
+  writeFile('sponsor.json', `${JSON.stringify(sponsorOutput, null, 2)}\n`),
+  writeFile('public.json', `${JSON.stringify(publicOutput, null, 2)}\n`),
+]);
+console.log(`Saved ${sponsor.length} sponsor proxies to sponsor.json and ${publicProxies.length} public proxies to public.json`);
