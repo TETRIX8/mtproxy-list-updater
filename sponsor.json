@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T08:09:34.629Z",
-  "count": 4,
+  "updated_at": "2026-09-02T07:29:00.109Z",
+  "count": 5,
   "proxies": [
     {
       "country": "BR",
@@ -12,13 +12,22 @@
       "status": "online"
     },
     {
+      "country": "DE",
+      "server": "yostavpn.casacam.net",
+      "port": 443,
+      "secret": "ee3db34d5ab674545e688abbefee52237f796f73746176706e2e6361736163616d2e6e6574",
+      "link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee3db34d5ab674545e688abbefee52237f796f73746176706e2e6361736163616d2e6e6574",
+      "source": "sponsor",
+      "status": "offline"
+    },
+    {
       "country": "LV",
       "server": "ardesvpn1.ru",
       "port": 8443,
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "source": "sponsor",
-      "status": "online"
+      "status": "offline"
     },
     {
       "country": "NL",
