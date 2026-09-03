@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-09-02T07:29:00.109Z",
-  "count": 5,
+  "updated_at": "2026-09-03T07:34:04.649Z",
+  "count": 2,
   "proxies": [
-    {
-      "country": "BR",
-      "server": "vertex.lovely.lat",
-      "port": 443,
-      "secret": "eed99f0a980ee294a8c7982b636dffb3ee7665727465782e6c6f76656c792e6c6174",
-      "link": "tg://proxy?server=vertex.lovely.lat&port=443&secret=eed99f0a980ee294a8c7982b636dffb3ee7665727465782e6c6f76656c792e6c6174",
-      "source": "sponsor",
-      "status": "online"
-    },
     {
       "country": "DE",
       "server": "yostavpn.casacam.net",
@@ -19,24 +10,6 @@
       "link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee3db34d5ab674545e688abbefee52237f796f73746176706e2e6361736163616d2e6e6574",
       "source": "sponsor",
       "status": "offline"
-    },
-    {
-      "country": "LV",
-      "server": "ardesvpn1.ru",
-      "port": 8443,
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "source": "sponsor",
-      "status": "offline"
-    },
-    {
-      "country": "NL",
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": 443,
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "source": "sponsor",
-      "status": "online"
     },
     {
       "country": "NL",
