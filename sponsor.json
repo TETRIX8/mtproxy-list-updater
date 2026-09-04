@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-03T07:34:04.649Z",
+  "updated_at": "2026-09-04T07:34:51.161Z",
   "count": 2,
   "proxies": [
+    {
+      "country": "DE",
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": 443,
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "source": "sponsor",
+      "status": "online"
+    },
     {
       "country": "DE",
       "server": "yostavpn.casacam.net",
@@ -9,16 +18,7 @@
       "secret": "ee3db34d5ab674545e688abbefee52237f796f73746176706e2e6361736163616d2e6e6574",
       "link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee3db34d5ab674545e688abbefee52237f796f73746176706e2e6361736163616d2e6e6574",
       "source": "sponsor",
-      "status": "offline"
-    },
-    {
-      "country": "NL",
-      "server": "static.antenna-mzt.live",
-      "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
+      "status": "unstable"
     }
   ]
 }
