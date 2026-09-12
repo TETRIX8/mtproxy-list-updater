@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-11T07:38:29.433Z",
-  "count": 1,
-  "proxies": [
-    {
-      "country": "NL",
-      "server": "static.antenna-mzt.live",
-      "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    }
-  ]
+  "updated_at": "2026-09-12T07:30:56.776Z",
+  "count": 0,
+  "proxies": []
 }
