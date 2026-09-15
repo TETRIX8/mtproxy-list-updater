@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T08:23:56.857Z",
+  "updated_at": "2026-09-15T08:14:59.466Z",
   "count": 2,
   "proxies": [
     {
@@ -18,7 +18,7 @@
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "source": "sponsor",
-      "status": "online"
+      "status": "offline"
     }
   ]
 }
