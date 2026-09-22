@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-21T08:25:39.625Z",
-  "count": 1,
+  "updated_at": "2026-09-22T08:06:53.229Z",
+  "count": 2,
   "proxies": [
+    {
+      "country": "LV",
+      "server": "surfing.suslik-cloud.homes",
+      "port": 443,
+      "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
+      "link": "tg://proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
+      "source": "sponsor",
+      "status": "offline"
+    },
     {
       "country": "NL",
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -9,7 +18,7 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "source": "sponsor",
-      "status": "online"
+      "status": "unstable"
     }
   ]
 }
