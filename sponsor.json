@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:00:07.906Z",
+  "updated_at": "2026-09-25T08:24:08.023Z",
   "count": 3,
   "proxies": [
     {
@@ -27,7 +27,7 @@
       "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
       "link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
       "source": "sponsor",
-      "status": "offline"
+      "status": "online"
     }
   ]
 }
