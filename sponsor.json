@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T09:11:00.091Z",
-  "count": 4,
+  "updated_at": "2026-10-01T09:38:50.535Z",
+  "count": 3,
   "proxies": [
     {
       "country": "FR",
@@ -17,15 +17,6 @@
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "RU",
-      "server": "max.kimt.click",
-      "port": 443,
-      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
       "source": "sponsor",
       "status": "online"
     },
