@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T09:10:34.809Z",
-  "count": 3,
+  "updated_at": "2026-10-05T09:51:45.638Z",
+  "count": 2,
   "proxies": [
     {
       "country": "FR",
@@ -8,15 +8,6 @@
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
       "link": "tg://proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "NL",
-      "server": "static.antenna-mzt.live",
-      "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "source": "sponsor",
       "status": "online"
     },
