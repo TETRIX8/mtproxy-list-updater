@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:51:22.264Z",
+  "updated_at": "2026-10-10T09:15:38.374Z",
   "count": 50,
   "proxies": [
     {
@@ -12,34 +12,10 @@
     },
     {
       "country": "DE",
-      "server": "46.225.77.74",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=46.225.77.74&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "49.12.36.40",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=49.12.36.40&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "source": "public"
-    },
-    {
-      "country": "DE",
       "server": "77.90.183.67",
       "port": 443,
       "secret": "dd10db98efe3ca23e84ff2c28b3e99e2f1",
       "link": "tg://proxy?server=77.90.183.67&port=443&secret=dd10db98efe3ca23e84ff2c28b3e99e2f1",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "89.167.29.101",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=89.167.29.101&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "source": "public"
     },
     {
@@ -92,30 +68,6 @@
     },
     {
       "country": "FI",
-      "server": "65.108.158.7",
-      "port": 443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=65.108.158.7&port=443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "source": "public"
-    },
-    {
-      "country": "FI",
-      "server": "65.109.129.89",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=65.109.129.89&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "source": "public"
-    },
-    {
-      "country": "FI",
-      "server": "77.91.84.97",
-      "port": 7443,
-      "secret": "522fb24b0f04799bb39a99568e32732a",
-      "link": "tg://proxy?server=77.91.84.97&port=7443&secret=522fb24b0f04799bb39a99568e32732a",
-      "source": "public"
-    },
-    {
-      "country": "FI",
       "server": "ir-ir.engematica.info",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMjdCQ",
@@ -124,10 +76,42 @@
     },
     {
       "country": "FR",
+      "server": "narniya.net",
+      "port": 443,
+      "secret": "eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d",
+      "link": "tg://proxy?server=narniya.net&port=443&secret=eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d",
+      "source": "public"
+    },
+    {
+      "country": "FR",
       "server": "surf.suslik-cloud.homes",
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "source": "public"
+    },
+    {
+      "country": "GB",
+      "server": "212.134.174.23",
+      "port": 45332,
+      "secret": "eea82d68aab6c4f875b23af6936f4a53847777772e62696e672e636f6d",
+      "link": "tg://proxy?server=212.134.174.23&port=45332&secret=eea82d68aab6c4f875b23af6936f4a53847777772e62696e672e636f6d",
+      "source": "public"
+    },
+    {
+      "country": "GB",
+      "server": "two.dedconnect.cc",
+      "port": 443,
+      "secret": "eeddb8caf8cc8af58676f5e60385f51c0d74776f2e646564636f6e6e6563742e6363",
+      "link": "tg://proxy?server=two.dedconnect.cc&port=443&secret=eeddb8caf8cc8af58676f5e60385f51c0d74776f2e646564636f6e6e6563742e6363",
+      "source": "public"
+    },
+    {
+      "country": "HK",
+      "server": "123.254.105.183",
+      "port": 54299,
+      "secret": "ee6ee92fdc72be7136ebf206f1524b82d17777772e646f7579696e2e636f6d",
+      "link": "tg://proxy?server=123.254.105.183&port=54299&secret=ee6ee92fdc72be7136ebf206f1524b82d17777772e646f7579696e2e636f6d",
       "source": "public"
     },
     {
@@ -300,6 +284,14 @@
     },
     {
       "country": "NL",
+      "server": "one.dedconnect.cc",
+      "port": 443,
+      "secret": "ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363",
+      "link": "tg://proxy?server=one.dedconnect.cc&port=443&secret=ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363",
+      "source": "public"
+    },
+    {
+      "country": "NL",
       "server": "p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space",
       "port": 443,
       "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -312,6 +304,14 @@
       "port": 443,
       "secret": "eedd92ee50053f69be12ecf40b1b96acdc746731302e6e65746c656b7373732e7275",
       "link": "tg://proxy?server=tg10.netleksss.ru&port=443&secret=eedd92ee50053f69be12ecf40b1b96acdc746731302e6e65746c656b7373732e7275",
+      "source": "public"
+    },
+    {
+      "country": "NL",
+      "server": "three.dedconnect.cc",
+      "port": 443,
+      "secret": "ee34cb55131c28e4c645b6c5f1036f27ee74687265652e646564636f6e6e6563742e6363",
+      "link": "tg://proxy?server=three.dedconnect.cc&port=443&secret=ee34cb55131c28e4c645b6c5f1036f27ee74687265652e646564636f6e6e6563742e6363",
       "source": "public"
     },
     {
