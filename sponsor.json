@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T09:32:19.550Z",
-  "count": 2,
+  "updated_at": "2026-10-12T10:02:47.300Z",
+  "count": 3,
   "proxies": [
     {
       "country": "LU",
@@ -17,6 +17,15 @@
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "US",
+      "server": "fast.mtproxy.pw",
+      "port": 443,
+      "secret": "ee564006065fbf8bcb611dc452075062cf786170692e6f7a6f6e2e7275",
+      "link": "tg://proxy?server=fast.mtproxy.pw&port=443&secret=ee564006065fbf8bcb611dc452075062cf786170692e6f7a6f6e2e7275",
       "source": "sponsor",
       "status": "online"
     }
