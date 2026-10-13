@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T10:02:47.300Z",
+  "updated_at": "2026-10-13T09:55:18.146Z",
   "count": 3,
   "proxies": [
     {
@@ -12,11 +12,11 @@
       "status": "online"
     },
     {
-      "country": "LV",
-      "server": "surf.suslik-cloud.homes",
+      "country": "US",
+      "server": "a09.mtjlpoto.fit",
       "port": 443,
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
-      "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "secret": "eebf7996394f73fa1002a1a074aa22f717786170692e6f7a6f6e2e7275",
+      "link": "tg://proxy?server=a09.mtjlpoto.fit&port=443&secret=eebf7996394f73fa1002a1a074aa22f717786170692e6f7a6f6e2e7275",
       "source": "sponsor",
       "status": "online"
     },
