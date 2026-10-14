@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T09:55:18.146Z",
+  "updated_at": "2026-10-14T08:15:19.921Z",
   "count": 50,
   "proxies": [
     {
@@ -132,14 +132,6 @@
     },
     {
       "country": "DE",
-      "server": "manirea.speedtest2030.co.uk",
-      "port": 3,
-      "secret": "ee91a66a165ed8f9acb663baf3340889dc6572306530723065307230653072306530726663653072667830783030787878306530652e6972",
-      "link": "tg://proxy?server=manirea.speedtest2030.co.uk&port=3&secret=ee91a66a165ed8f9acb663baf3340889dc6572306530723065307230653072306530726663653072667830783030787878306530652e6972",
-      "source": "public"
-    },
-    {
-      "country": "DE",
       "server": "portal.it-service.team",
       "port": 443,
       "secret": "7vO4TPlM27u2dXyej5gBRW13d3cuZXRlbGVjb20ucnU",
@@ -172,10 +164,26 @@
     },
     {
       "country": "FI",
-      "server": "95.216.216.84",
+      "server": "95.216.192.135",
       "port": 443,
       "secret": "eeDarKDarKDarKDarKDarK",
-      "link": "tg://proxy?server=95.216.216.84&port=443&secret=eeDarKDarKDarKDarKDarK",
+      "link": "tg://proxy?server=95.216.192.135&port=443&secret=eeDarKDarKDarKDarKDarK",
+      "source": "public"
+    },
+    {
+      "country": "FI",
+      "server": "kostyanchekloh.lol",
+      "port": 443,
+      "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+      "link": "tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+      "source": "public"
+    },
+    {
+      "country": "FI",
+      "server": "x.shmelproxy.top",
+      "port": 443,
+      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+      "link": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
       "source": "public"
     },
     {
@@ -363,19 +371,11 @@
       "source": "public"
     },
     {
-      "country": "NL",
-      "server": "x.shmelproxy.top",
-      "port": 443,
-      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "link": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "source": "public"
-    },
-    {
       "country": "PL",
-      "server": "02f81bf2.mtproto.online",
+      "server": "5e9d4076.mtproto.online",
       "port": 443,
       "secret": "ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275",
-      "link": "tg://proxy?server=02f81bf2.mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275",
+      "link": "tg://proxy?server=5e9d4076.mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275",
       "source": "public"
     },
     {
@@ -388,18 +388,18 @@
     },
     {
       "country": "RU",
+      "server": "213.171.9.211",
+      "port": 443,
+      "secret": "9d2355bec09eda6e38144c81b9130e44",
+      "link": "tg://proxy?server=213.171.9.211&port=443&secret=9d2355bec09eda6e38144c81b9130e44",
+      "source": "public"
+    },
+    {
+      "country": "RU",
       "server": "pl2.h1cloud.net",
       "port": 25789,
       "secret": "ee88dd6cf6c21b576a5dad89555ff888547777772e73616d73756e672e636f6d",
       "link": "tg://proxy?server=pl2.h1cloud.net&port=25789&secret=ee88dd6cf6c21b576a5dad89555ff888547777772e73616d73756e672e636f6d",
-      "source": "public"
-    },
-    {
-      "country": "SG",
-      "server": "92.243.75.247",
-      "port": 443,
-      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496d2e6265626f6f2e7275",
-      "link": "tg://proxy?server=92.243.75.247&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496d2e6265626f6f2e7275",
       "source": "public"
     }
   ]
