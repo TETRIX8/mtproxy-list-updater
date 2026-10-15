@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T08:15:19.921Z",
-  "count": 50,
+  "updated_at": "2026-10-15T07:52:52.315Z",
+  "count": 37,
   "proxies": [
     {
       "country": "DE",
@@ -8,14 +8,6 @@
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "link": "tg://proxy?server=116.203.14.83&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "13.141.35.10",
-      "port": 443,
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
-      "link": "tg://proxy?server=13.141.35.10&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
       "source": "public"
     },
     {
@@ -92,22 +84,6 @@
     },
     {
       "country": "DE",
-      "server": "91.98.105.201",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=91.98.105.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "aparat.com.filimo.com.namava.ir.telewebion.com.ghoostbusters.ir",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=aparat.com.filimo.com.namava.ir.telewebion.com.ghoostbusters.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "DE",
       "server": "beyond.thedawnmist.info",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -156,34 +132,10 @@
     },
     {
       "country": "FI",
-      "server": "37.27.146.86",
-      "port": 443,
-      "secret": "eeDarKDarKDarKDarKDarK",
-      "link": "tg://proxy?server=37.27.146.86&port=443&secret=eeDarKDarKDarKDarKDarK",
-      "source": "public"
-    },
-    {
-      "country": "FI",
-      "server": "95.216.192.135",
-      "port": 443,
-      "secret": "eeDarKDarKDarKDarKDarK",
-      "link": "tg://proxy?server=95.216.192.135&port=443&secret=eeDarKDarKDarKDarKDarK",
-      "source": "public"
-    },
-    {
-      "country": "FI",
       "server": "kostyanchekloh.lol",
       "port": 443,
       "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
       "link": "tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-      "source": "public"
-    },
-    {
-      "country": "FI",
-      "server": "x.shmelproxy.top",
-      "port": 443,
-      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "link": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
       "source": "public"
     },
     {
@@ -200,14 +152,6 @@
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "link": "tg://proxy?server=2.31.13.241&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "GB",
-      "server": "snapp.ir.neshan.org.tapsi.ir.balad.ir.siyahsefidi.ir",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=snapp.ir.neshan.org.tapsi.ir.balad.ir.siyahsefidi.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
@@ -268,38 +212,6 @@
     },
     {
       "country": "IR",
-      "server": "87.248.144.156",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.156&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.157",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.157&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.158",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.158&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.159",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.159&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
       "server": "93.113.230.221",
       "port": 443,
       "secret": "dd6a67ae4c2d173b4168745435cb313a39",
@@ -328,14 +240,6 @@
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "link": "tg://proxy?server=behind.thedawnmist.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "dandoon1.ir",
-      "port": 22,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=dandoon1.ir&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
@@ -376,14 +280,6 @@
       "port": 443,
       "secret": "ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275",
       "link": "tg://proxy?server=5e9d4076.mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275",
-      "source": "public"
-    },
-    {
-      "country": "PL",
-      "server": "70.34.253.238",
-      "port": 8443,
-      "secret": "f98231f130ba0fd9e4e3e6a7cf23fa1d",
-      "link": "tg://proxy?server=70.34.253.238&port=8443&secret=f98231f130ba0fd9e4e3e6a7cf23fa1d",
       "source": "public"
     },
     {
