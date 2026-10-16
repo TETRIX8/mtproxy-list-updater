@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-10-15T07:52:52.315Z",
-  "count": 37,
+  "updated_at": "2026-10-16T07:45:01.563Z",
+  "count": 31,
   "proxies": [
-    {
-      "country": "DE",
-      "server": "116.203.14.83",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=116.203.14.83&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
     {
       "country": "DE",
       "server": "13.141.56.244",
@@ -168,46 +160,6 @@
       "port": 2053,
       "secret": "eebbd0ccaeaf094d07610973fb383a82077777772e636c6f7564666c6172652e636f6d",
       "link": "tg://proxy?server=81.12.50.252&port=2053&secret=eebbd0ccaeaf094d07610973fb383a82077777772e636c6f7564666c6172652e636f6d",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.151",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.151&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.152",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.152&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.153",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.153&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.154",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.154&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "87.248.144.155",
-      "port": 8880,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=87.248.144.155&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
