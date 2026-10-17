@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T07:45:01.563Z",
-  "count": 31,
+  "updated_at": "2026-10-17T07:23:01.665Z",
+  "count": 28,
   "proxies": [
     {
       "country": "DE",
@@ -100,14 +100,6 @@
     },
     {
       "country": "DE",
-      "server": "portal.it-service.team",
-      "port": 443,
-      "secret": "7vO4TPlM27u2dXyej5gBRW13d3cuZXRlbGVjb20ucnU",
-      "link": "tg://proxy?server=portal.it-service.team&port=443&secret=7vO4TPlM27u2dXyej5gBRW13d3cuZXRlbGVjb20ucnU",
-      "source": "public"
-    },
-    {
-      "country": "DE",
       "server": "quietlinen.top",
       "port": 443,
       "secret": "dd9001a1214b039fa95d5a42fb204e49e4",
@@ -203,14 +195,6 @@
       "source": "public"
     },
     {
-      "country": "IR",
-      "server": "zaboort.info",
-      "port": 22,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=zaboort.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
       "country": "NL",
       "server": "dl.aapks.app",
       "port": 443,
@@ -240,14 +224,6 @@
       "port": 443,
       "secret": "9d2355bec09eda6e38144c81b9130e44",
       "link": "tg://proxy?server=213.171.9.211&port=443&secret=9d2355bec09eda6e38144c81b9130e44",
-      "source": "public"
-    },
-    {
-      "country": "RU",
-      "server": "pl2.h1cloud.net",
-      "port": 25789,
-      "secret": "ee88dd6cf6c21b576a5dad89555ff888547777772e73616d73756e672e636f6d",
-      "link": "tg://proxy?server=pl2.h1cloud.net&port=25789&secret=ee88dd6cf6c21b576a5dad89555ff888547777772e73616d73756e672e636f6d",
       "source": "public"
     }
   ]
