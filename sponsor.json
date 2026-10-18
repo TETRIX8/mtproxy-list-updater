@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-17T07:23:01.665Z",
-  "count": 5,
+  "updated_at": "2026-10-18T07:37:28.994Z",
+  "count": 7,
   "proxies": [
+    {
+      "country": "IL",
+      "server": "connect.mtp.llc",
+      "port": 443,
+      "secret": "eebf9a976244f57a5c9ef85ca8477eef356c69746536342e73697465",
+      "link": "tg://proxy?server=connect.mtp.llc&port=443&secret=eebf9a976244f57a5c9ef85ca8477eef356c69746536342e73697465",
+      "source": "sponsor",
+      "status": "online"
+    },
     {
       "country": "LU",
       "server": "static.antenna-mzt.live",
@@ -17,6 +26,15 @@
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "PL",
+      "server": "litevpnch.mtproxy.pw",
+      "port": 443,
+      "secret": "ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
+      "link": "tg://proxy?server=litevpnch.mtproxy.pw&port=443&secret=ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
       "source": "sponsor",
       "status": "online"
     },
