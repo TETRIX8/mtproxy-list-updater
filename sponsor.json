@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T07:37:28.994Z",
-  "count": 7,
+  "updated_at": "2026-10-19T08:19:45.104Z",
+  "count": 6,
   "proxies": [
     {
       "country": "IL",
@@ -53,15 +53,6 @@
       "port": 443,
       "secret": "eebf7996394f73fa1002a1a074aa22f717786170692e6f7a6f6e2e7275",
       "link": "tg://proxy?server=a09.mtjlpoto.fit&port=443&secret=eebf7996394f73fa1002a1a074aa22f717786170692e6f7a6f6e2e7275",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "US",
-      "server": "fast.mtproxy.pw",
-      "port": 443,
-      "secret": "ee564006065fbf8bcb611dc452075062cf786170692e6f7a6f6e2e7275",
-      "link": "tg://proxy?server=fast.mtproxy.pw&port=443&secret=ee564006065fbf8bcb611dc452075062cf786170692e6f7a6f6e2e7275",
       "source": "sponsor",
       "status": "online"
     }

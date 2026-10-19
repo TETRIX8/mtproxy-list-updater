@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-10-18T07:37:28.994Z",
-  "count": 15,
+  "updated_at": "2026-10-19T08:19:45.104Z",
+  "count": 9,
   "proxies": [
-    {
-      "country": "DE",
-      "server": "3.assassinationpuma.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=3.assassinationpuma.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
     {
       "country": "DE",
       "server": "91.107.181.221",
       "port": 443,
       "secret": "b425723b91001e3ab5df35d7db534159",
       "link": "tg://proxy?server=91.107.181.221&port=443&secret=b425723b91001e3ab5df35d7db534159",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "beyond.thedawnmist.info",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=beyond.thedawnmist.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
@@ -40,30 +24,6 @@
       "port": 443,
       "secret": "dd9001a1214b039fa95d5a42fb204e49e4",
       "link": "tg://proxy?server=quietlinen.top&port=443&secret=dd9001a1214b039fa95d5a42fb204e49e4",
-      "source": "public"
-    },
-    {
-      "country": "DE",
-      "server": "within.thedawnmist.info",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=within.thedawnmist.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "GB",
-      "server": "2.31.10.230",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=2.31.10.230&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "GB",
-      "server": "2.31.13.241",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=2.31.13.241&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
@@ -112,14 +72,6 @@
       "port": 443,
       "secret": "eeb9368cadbd8a756073e33cd2598dbef2646c2e6161706b732e617070",
       "link": "tg://proxy?server=dl.aapks.app&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef2646c2e6161706b732e617070",
-      "source": "public"
-    },
-    {
-      "country": "NL",
-      "server": "neognu.com",
-      "port": 443,
-      "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e016e656f676e752e636f6d",
-      "link": "tg://proxy?server=neognu.com&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e016e656f676e752e636f6d",
       "source": "public"
     }
   ]
