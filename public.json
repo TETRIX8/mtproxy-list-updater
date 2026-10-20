@@ -1,77 +1,69 @@
 {
-  "updated_at": "2026-10-19T08:19:45.104Z",
-  "count": 9,
+  "updated_at": "2026-10-20T08:04:24.268Z",
+  "count": 8,
   "proxies": [
     {
       "country": "DE",
-      "server": "91.107.181.221",
+      "server": "13.141.56.74",
       "port": 443,
-      "secret": "b425723b91001e3ab5df35d7db534159",
-      "link": "tg://proxy?server=91.107.181.221&port=443&secret=b425723b91001e3ab5df35d7db534159",
+      "secret": "ee17830d1d27853b54661d85d0b4bfcca7786170692e6f7a6f6e2e7275",
+      "link": "tg://proxy?server=13.141.56.74&port=443&secret=ee17830d1d27853b54661d85d0b4bfcca7786170692e6f7a6f6e2e7275",
       "source": "public"
     },
     {
       "country": "DE",
-      "server": "ir-ir.ataman.info",
+      "server": "138.199.153.62",
       "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "link": "tg://proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "link": "tg://proxy?server=138.199.153.62&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "source": "public"
     },
     {
       "country": "DE",
-      "server": "quietlinen.top",
+      "server": "89.125.156.204",
       "port": 443,
-      "secret": "dd9001a1214b039fa95d5a42fb204e49e4",
-      "link": "tg://proxy?server=quietlinen.top&port=443&secret=dd9001a1214b039fa95d5a42fb204e49e4",
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "link": "tg://proxy?server=89.125.156.204&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "source": "public"
     },
     {
       "country": "IR",
-      "server": "37.202.244.181",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=37.202.244.181&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "93.113.230.221",
-      "port": 443,
-      "secret": "dd6a67ae4c2d173b4168745435cb313a39",
-      "link": "tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "93.113.230.250",
-      "port": 443,
-      "secret": "dd6a67ae4c2d173b4168745435cb313a39",
-      "link": "tg://proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "behind.thedawnmist.info",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "link": "tg://proxy?server=behind.thedawnmist.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "source": "public"
-    },
-    {
-      "country": "IR",
-      "server": "love.roseprox.xyz",
+      "server": "194.60.228.188",
       "port": 2096,
-      "secret": "ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
-      "link": "tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "link": "tg://proxy?server=194.60.228.188&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "source": "public"
+    },
+    {
+      "country": "IR",
+      "server": "87.248.144.60",
+      "port": 2053,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "link": "tg://proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "source": "public"
+    },
+    {
+      "country": "IR",
+      "server": "one.tikitu.ir",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ",
+      "link": "tg://proxy?server=one.tikitu.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "source": "public"
     },
     {
       "country": "NL",
-      "server": "dl.aapks.app",
+      "server": "152.42.138.150",
       "port": 443,
-      "secret": "eeb9368cadbd8a756073e33cd2598dbef2646c2e6161706b732e617070",
-      "link": "tg://proxy?server=dl.aapks.app&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef2646c2e6161706b732e617070",
+      "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+      "link": "tg://proxy?server=152.42.138.150&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "source": "public"
+    },
+    {
+      "country": "PL",
+      "server": "82.22.41.37",
+      "port": 8443,
+      "secret": "ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275",
+      "link": "tg://proxy?server=82.22.41.37&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275",
       "source": "public"
     }
   ]
