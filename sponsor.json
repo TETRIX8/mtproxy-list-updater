@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:04:24.268Z",
+  "updated_at": "2026-10-21T08:09:35.859Z",
   "count": 5,
   "proxies": [
     {
@@ -21,20 +21,20 @@
       "status": "online"
     },
     {
-      "country": "LV",
-      "server": "surf.suslik-cloud.homes",
-      "port": 443,
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
-      "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
       "country": "PL",
       "server": "litevpnch.mtproxy.pw",
       "port": 443,
       "secret": "ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
       "link": "tg://proxy?server=litevpnch.mtproxy.pw&port=443&secret=ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "PL",
+      "server": "sumika29.hollowfern.sbs",
+      "port": 443,
+      "secret": "ee6fc94e980495a5e5c46692da46e856e36c69746536342e73697465",
+      "link": "tg://proxy?server=sumika29.hollowfern.sbs&port=443&secret=ee6fc94e980495a5e5c46692da46e856e36c69746536342e73697465",
       "source": "sponsor",
       "status": "online"
     },
