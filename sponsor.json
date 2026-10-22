@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-21T08:09:35.859Z",
-  "count": 5,
+  "updated_at": "2026-10-22T08:10:17.848Z",
+  "count": 7,
   "proxies": [
+    {
+      "country": "DE",
+      "server": "gram.blog",
+      "port": 853,
+      "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
+      "link": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "FR",
+      "server": "surf.suslik-cloud.homes",
+      "port": 443,
+      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "source": "sponsor",
+      "status": "online"
+    },
     {
       "country": "IL",
       "server": "connect.mtp.llc",
