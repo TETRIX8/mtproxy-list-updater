@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:10:17.848Z",
+  "updated_at": "2026-10-23T08:08:18.303Z",
   "count": 7,
   "proxies": [
     {
@@ -30,20 +30,20 @@
       "status": "online"
     },
     {
+      "country": "IL",
+      "server": "litevpnch.mtproxy.pw",
+      "port": 443,
+      "secret": "ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746576706e63682e6d7470726f78792e7077",
+      "link": "tg://proxy?server=litevpnch.mtproxy.pw&port=443&secret=ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746576706e63682e6d7470726f78792e7077",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
       "country": "LU",
       "server": "static.antenna-mzt.live",
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "PL",
-      "server": "litevpnch.mtproxy.pw",
-      "port": 443,
-      "secret": "ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
-      "link": "tg://proxy?server=litevpnch.mtproxy.pw&port=443&secret=ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746536342e73697465",
       "source": "sponsor",
       "status": "online"
     },
