@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-24T07:47:09.042Z",
-  "count": 7,
+  "updated_at": "2026-10-25T07:58:22.831Z",
+  "count": 8,
   "proxies": [
+    {
+      "country": "DE",
+      "server": "193.23.221.174",
+      "port": 2222,
+      "secret": "ddf8a79ccba519fb1c435b43d3d3ddd489",
+      "link": "tg://proxy?server=193.23.221.174&port=2222&secret=ddf8a79ccba519fb1c435b43d3d3ddd489",
+      "source": "sponsor",
+      "status": "online"
+    },
     {
       "country": "DE",
       "server": "gram.blog",
