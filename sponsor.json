@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:31:39.838Z",
+  "updated_at": "2026-10-28T09:10:42.428Z",
   "count": 8,
   "proxies": [
     {
@@ -17,6 +17,15 @@
       "port": 853,
       "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
       "link": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "DE",
+      "server": "posude79.fernlark.xyz",
+      "port": 443,
+      "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
+      "link": "tg://proxy?server=posude79.fernlark.xyz&port=443&secret=ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
       "source": "sponsor",
       "status": "online"
     },
@@ -53,15 +62,6 @@
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "PL",
-      "server": "sumika29.hollowfern.sbs",
-      "port": 443,
-      "secret": "ee6fc94e980495a5e5c46692da46e856e36c69746536342e73697465",
-      "link": "tg://proxy?server=sumika29.hollowfern.sbs&port=443&secret=ee6fc94e980495a5e5c46692da46e856e36c69746536342e73697465",
       "source": "sponsor",
       "status": "online"
     },
