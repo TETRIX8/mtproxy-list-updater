@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-31T09:08:11.694Z",
-  "count": 7,
+  "updated_at": "2026-11-01T09:55:53.916Z",
+  "count": 4,
   "proxies": [
-    {
-      "country": "DE",
-      "server": "193.23.221.174",
-      "port": 2222,
-      "secret": "ddf8a79ccba519fb1c435b43d3d3ddd489",
-      "link": "tg://proxy?server=193.23.221.174&port=2222&secret=ddf8a79ccba519fb1c435b43d3d3ddd489",
-      "source": "sponsor",
-      "status": "online"
-    },
     {
       "country": "DE",
       "server": "posude79.fernlark.xyz",
@@ -26,24 +17,6 @@
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
       "link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "IL",
-      "server": "connect.mtp.llc",
-      "port": 443,
-      "secret": "eebf9a976244f57a5c9ef85ca8477eef356c69746536342e73697465",
-      "link": "tg://proxy?server=connect.mtp.llc&port=443&secret=eebf9a976244f57a5c9ef85ca8477eef356c69746536342e73697465",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "IL",
-      "server": "litevpnch.mtproxy.pw",
-      "port": 443,
-      "secret": "ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746576706e63682e6d7470726f78792e7077",
-      "link": "tg://proxy?server=litevpnch.mtproxy.pw&port=443&secret=ee7136f9ce0dc6b4e3946a1245fe4afb3d6c69746576706e63682e6d7470726f78792e7077",
       "source": "sponsor",
       "status": "online"
     },
