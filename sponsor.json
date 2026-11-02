@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-01T09:55:53.916Z",
+  "updated_at": "2026-11-02T10:22:25.891Z",
   "count": 4,
   "proxies": [
     {
       "country": "DE",
-      "server": "posude79.fernlark.xyz",
+      "server": "static.antenna-mzt.live",
       "port": 443,
-      "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
-      "link": "tg://proxy?server=posude79.fernlark.xyz&port=443&secret=ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "source": "sponsor",
       "status": "online"
     },
@@ -21,16 +21,16 @@
       "status": "online"
     },
     {
-      "country": "LU",
-      "server": "static.antenna-mzt.live",
+      "country": "UA",
+      "server": "posude79.fernlark.xyz",
       "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
+      "link": "tg://proxy?server=posude79.fernlark.xyz&port=443&secret=ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a",
       "source": "sponsor",
       "status": "online"
     },
     {
-      "country": "PL",
+      "country": "US",
       "server": "web.gktmfrv.sbs",
       "port": 443,
       "secret": "ee8d2347ee3bfd6ba6299947017bf28dc16364656b2e7275",
