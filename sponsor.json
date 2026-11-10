@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T10:42:44.142Z",
-  "count": 4,
+  "updated_at": "2026-11-10T10:38:54.009Z",
+  "count": 6,
   "proxies": [
     {
       "country": "DE",
@@ -12,11 +12,29 @@
       "status": "online"
     },
     {
+      "country": "DE",
+      "server": "static.antenna-mzt.live",
+      "port": 443,
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
       "country": "FR",
       "server": "surf.suslik-cloud.com",
       "port": 443,
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
       "link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "RU",
+      "server": "jarko.myrka.digital",
+      "port": 443,
+      "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+      "link": "tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
       "source": "sponsor",
       "status": "online"
     },
