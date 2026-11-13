@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T10:30:13.009Z",
-  "count": 4,
+  "updated_at": "2026-11-13T10:23:19.861Z",
+  "count": 6,
   "proxies": [
     {
       "country": "DE",
@@ -21,6 +21,15 @@
       "status": "online"
     },
     {
+      "country": "LU",
+      "server": "awd.subaru-volga.com",
+      "port": 443,
+      "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
       "country": "NL",
       "server": "surf.suslik-cloud.com",
       "port": 443,
@@ -35,6 +44,15 @@
       "port": 443,
       "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
       "link": "tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "US",
+      "server": "web.gktmfrv.sbs",
+      "port": 443,
+      "secret": "ee8d2347ee3bfd6ba6299947017bf28dc16364656b2e7275",
+      "link": "tg://proxy?server=web.gktmfrv.sbs&port=443&secret=ee8d2347ee3bfd6ba6299947017bf28dc16364656b2e7275",
       "source": "sponsor",
       "status": "online"
     }
