@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-11-14T09:40:28.135Z",
-  "count": 6,
+  "updated_at": "2026-11-15T10:14:18.189Z",
+  "count": 5,
   "proxies": [
-    {
-      "country": "DE",
-      "server": "shared.ddproxy.xyz",
-      "port": 443,
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "source": "sponsor",
-      "status": "online"
-    },
     {
       "country": "DE",
       "server": "static.antenna-mzt.live",
