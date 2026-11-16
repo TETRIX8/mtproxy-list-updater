@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T10:14:18.189Z",
-  "count": 5,
+  "updated_at": "2026-11-16T10:26:02.543Z",
+  "count": 6,
   "proxies": [
     {
       "country": "DE",
@@ -8,6 +8,15 @@
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "GB",
+      "server": "kvas.kemerovo.online",
+      "port": 8443,
+      "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+      "link": "tg://proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
       "source": "sponsor",
       "status": "online"
     },
