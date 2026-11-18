@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T11:23:08.021Z",
+  "updated_at": "2026-11-18T10:55:45.916Z",
   "count": 5,
   "proxies": [
     {
@@ -12,11 +12,20 @@
       "status": "online"
     },
     {
-      "country": "LU",
+      "country": "GB",
       "server": "awd.subaru-volga.com",
       "port": 443,
       "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
       "link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "GB",
+      "server": "valenki.kemerovo.online",
+      "port": 443,
+      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+      "link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
       "source": "sponsor",
       "status": "online"
     },
@@ -26,15 +35,6 @@
       "port": 8443,
       "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
       "link": "tg://proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "LU",
-      "server": "valenki.kemerovo.online",
-      "port": 443,
-      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-      "link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
       "source": "sponsor",
       "status": "online"
     },
