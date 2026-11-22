@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T10:29:55.924Z",
-  "count": 7,
+  "updated_at": "2026-11-22T10:34:41.216Z",
+  "count": 6,
   "proxies": [
     {
       "country": "FI",
@@ -8,15 +8,6 @@
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "FR",
-      "server": "valenki.kemerovo.online",
-      "port": 443,
-      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-      "link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
       "source": "sponsor",
       "status": "online"
     },
@@ -30,11 +21,11 @@
       "status": "online"
     },
     {
-      "country": "NL",
-      "server": "surf.suslik-cloud.com",
+      "country": "LU",
+      "server": "valenki.kemerovo.online",
       "port": 443,
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+      "link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
       "source": "sponsor",
       "status": "online"
     },
@@ -57,7 +48,7 @@
       "status": "online"
     },
     {
-      "country": "SE",
+      "country": "RU",
       "server": "kvas.kemerovo.online",
       "port": 8443,
       "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
