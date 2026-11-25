@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T13:08:27.980Z",
+  "updated_at": "2026-11-25T11:56:04.124Z",
   "count": 6,
   "proxies": [
     {
@@ -12,11 +12,11 @@
       "status": "online"
     },
     {
-      "country": "GB",
-      "server": "www.tgda.best",
+      "country": "KR",
+      "server": "lotus.velvetwindow.cc",
       "port": 443,
-      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
-      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "secret": "eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
+      "link": "tg://proxy?server=lotus.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
       "source": "sponsor",
       "status": "online"
     },
@@ -30,11 +30,11 @@
       "status": "online"
     },
     {
-      "country": "PL",
-      "server": "lotus.velvetwindow.cc",
+      "country": "NL",
+      "server": "www.tgda.best",
       "port": 443,
-      "secret": "eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
-      "link": "tg://proxy?server=lotus.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
+      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
       "source": "sponsor",
       "status": "online"
     },
