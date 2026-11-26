@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:56:04.124Z",
+  "updated_at": "2026-11-26T11:44:36.044Z",
   "count": 6,
   "proxies": [
     {
@@ -12,7 +12,16 @@
       "status": "online"
     },
     {
-      "country": "KR",
+      "country": "GB",
+      "server": "www.tgda.best",
+      "port": 443,
+      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "IL",
       "server": "lotus.velvetwindow.cc",
       "port": 443,
       "secret": "eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
@@ -26,15 +35,6 @@
       "port": 443,
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "NL",
-      "server": "www.tgda.best",
-      "port": 443,
-      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
-      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
       "source": "sponsor",
       "status": "online"
     },
