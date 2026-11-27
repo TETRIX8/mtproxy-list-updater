@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T11:44:36.044Z",
-  "count": 6,
+  "updated_at": "2026-11-27T11:38:39.807Z",
+  "count": 3,
   "proxies": [
     {
       "country": "GB",
@@ -8,24 +8,6 @@
       "port": 443,
       "secret": "ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c",
       "link": "tg://proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "GB",
-      "server": "www.tgda.best",
-      "port": 443,
-      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
-      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "IL",
-      "server": "lotus.velvetwindow.cc",
-      "port": 443,
-      "secret": "eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
-      "link": "tg://proxy?server=lotus.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946c6f7475732e76656c76657477696e646f772e6363",
       "source": "sponsor",
       "status": "online"
     },
@@ -39,20 +21,11 @@
       "status": "online"
     },
     {
-      "country": "PL",
-      "server": "web.gktmfrv.sbs",
+      "country": "NL",
+      "server": "www.tgda.best",
       "port": 443,
-      "secret": "ee8d2347ee3bfd6ba6299947017bf28dc16364656b2e7275",
-      "link": "tg://proxy?server=web.gktmfrv.sbs&port=443&secret=ee8d2347ee3bfd6ba6299947017bf28dc16364656b2e7275",
-      "source": "sponsor",
-      "status": "online"
-    },
-    {
-      "country": "PT",
-      "server": "awd.subaru-volga.com",
-      "port": 443,
-      "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-      "link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
       "source": "sponsor",
       "status": "online"
     }
