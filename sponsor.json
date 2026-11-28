@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T11:38:39.807Z",
-  "count": 3,
+  "updated_at": "2026-11-28T11:12:54.402Z",
+  "count": 5,
   "proxies": [
     {
       "country": "GB",
@@ -22,10 +22,28 @@
     },
     {
       "country": "NL",
+      "server": "connect.lero.one",
+      "port": 443,
+      "secret": "ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275",
+      "link": "tg://proxy?server=connect.lero.one&port=443&secret=ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "NL",
       "server": "www.tgda.best",
       "port": 443,
       "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
       "link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "source": "sponsor",
+      "status": "online"
+    },
+    {
+      "country": "PT",
+      "server": "valenki.kemerovo.online",
+      "port": 443,
+      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+      "link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
       "source": "sponsor",
       "status": "online"
     }
